@@ -1,6 +1,6 @@
 # FineTuneSequentialModel
 
-Appling Lightweight Fine-Tuning to a Foundation Model - LoRA
+Applying Lightweight Fine-Tuning to a Foundation Model - LoRA
 
 1. Using the Hugging Face ecosystem to fine-tune a language model to classify text as ‘positive’ or ‘negative’.
 
